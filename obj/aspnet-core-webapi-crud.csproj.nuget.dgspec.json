@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\victor.eiras\\Desktop\\Victor\\Dev\\aspnet-core-webapi-crud\\aspnet-core-webapi-crud.csproj": {}
+    "c:\\Users\\victor.eiras\\Desktop\\Victor\\Dev\\aspnet-core-webapi-crud\\aspnet-core-webapi-crud.csproj": {}
   },
   "projects": {
-    "C:\\Users\\victor.eiras\\Desktop\\Victor\\Dev\\aspnet-core-webapi-crud\\aspnet-core-webapi-crud.csproj": {
+    "c:\\Users\\victor.eiras\\Desktop\\Victor\\Dev\\aspnet-core-webapi-crud\\aspnet-core-webapi-crud.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\victor.eiras\\Desktop\\Victor\\Dev\\aspnet-core-webapi-crud\\aspnet-core-webapi-crud.csproj",
+        "projectUniqueName": "c:\\Users\\victor.eiras\\Desktop\\Victor\\Dev\\aspnet-core-webapi-crud\\aspnet-core-webapi-crud.csproj",
         "projectName": "aspnet-core-webapi-crud",
-        "projectPath": "C:\\Users\\victor.eiras\\Desktop\\Victor\\Dev\\aspnet-core-webapi-crud\\aspnet-core-webapi-crud.csproj",
+        "projectPath": "c:\\Users\\victor.eiras\\Desktop\\Victor\\Dev\\aspnet-core-webapi-crud\\aspnet-core-webapi-crud.csproj",
         "packagesPath": "C:\\Users\\victor.eiras\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\victor.eiras\\Desktop\\Victor\\Dev\\aspnet-core-webapi-crud\\obj\\",
+        "outputPath": "c:\\Users\\victor.eiras\\Desktop\\Victor\\Dev\\aspnet-core-webapi-crud\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\victor.eiras\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -41,6 +41,20 @@
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
               "version": "[7.0.15, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.0, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",

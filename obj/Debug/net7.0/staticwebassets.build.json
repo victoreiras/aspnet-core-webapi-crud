@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "y/VWXw0ZI7JoUaxzEGdVF6LQlKuvjgco0kwzg+vgkoM=",
+  "Source": "aspnet-core-webapi-crud",
+  "BasePath": "_content/aspnet-core-webapi-crud",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
